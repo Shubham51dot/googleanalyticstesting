@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+header p {
+  color: gray;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+main h2 {
+  margin-bottom: 10px;
+}
+
+main ul {
+  list-style: none;
+  padding: 0;
+}
+
+main li {
+  margin-bottom: 10px;
+}
+
+main a {
+  text-decoration: none;
+  color: black;
+}
+
+main a:hover {
+  color: #ccc;
+}
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+}
